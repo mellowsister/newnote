@@ -1,0 +1,111 @@
+!SESSION 2012-05-22 13:42:00.623 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_30
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data S:\newnote -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:42:58.184
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/CircleOfFifths/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:42:58.185
+!MESSAGE Resource '/CircleOfFifths/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:11.972
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/CircleOfFifths/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:11.973
+!MESSAGE Resource '/CircleOfFifths/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.000
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/PdCore/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.000
+!MESSAGE Resource '/PdCore/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.021
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/PdCoreP5/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.021
+!MESSAGE Resource '/PdCoreP5/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.046
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/PdP5Sample/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.046
+!MESSAGE Resource '/PdP5Sample/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.063
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/PdTest/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.063
+!MESSAGE Resource '/PdTest/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.072
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Scene Player/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.072
+!MESSAGE Resource '/Scene Player/res' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-05-22 13:47:12.081
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Voice-O-Rama/res' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:320)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:194)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:266)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:249)
+	at com.android.ide.eclipse.adt.internal.sdk.Sdk$6.run(Sdk.java:1302)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2012-05-22 13:47:12.081
+!MESSAGE Resource '/Voice-O-Rama/res' does not exist.
